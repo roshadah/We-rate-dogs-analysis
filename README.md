@@ -19,6 +19,6 @@ WeRateDogs has over 4 million followers and has received international media cov
 
 ## Key Insights for Presentation
 I introduce each of the variables one by one. To start, I use the boxplots across variable to determine their disrtibution. 
-The rating distribution shows that most of the user rating is 1.1 which about 50% of the rating. 
+The rating distribution shows that most of the user rating is 1.1 which is about 50% of the rating. 
 The scatterplt shows that postive relationship exist between rating and favorite_count.
 .The source columns shows that most of the WeRateDogs Twitter user are using iphones.
