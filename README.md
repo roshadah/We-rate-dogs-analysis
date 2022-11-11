@@ -15,10 +15,10 @@ WeRateDogs has over 4 million followers and has received international media cov
 
 1.The graph shows that postive correlation between retweet_counts and rating
 2.The graph shows that postive correlation exist between favorite_counts and rating
-3.Source showed that most of the users re from iphone compared to other devices i.e Vine,Twitter Web client,Tweetdeck
+3.Source showed that most of the users is from iphone mobile devices compared to other devices i.e Vine,Twitter Web client,Tweetdeck
 
 ## Key Insights for Presentation
 I introduce each of the variables one by one. To start, I use the boxplots across variable to determine their disrtibution. 
 The rating distribution shows that most of the user rating is 1.1 which is about 50% of the rating. 
-The scatterplt shows that postive relationship exist between rating and favorite_count.
+The scatterplot shows that postive relationship exist between rating and favorite_count.
 .The source columns shows that most of the WeRateDogs Twitter user are using iphones.
